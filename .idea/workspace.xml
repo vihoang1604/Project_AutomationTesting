@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="754f5ecf-eeb6-41c9-a5a2-f98096ac8cf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CommonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CommonPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/loginRegisterPages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/loginRegisterPages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/managementAccoumtPages/UpdateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/managementAccoumtPages/UpdateAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/managementApplicationPages/AddApplicationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/managementApplicationPages/AddApplicationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/managementApplicationPages/EditApplicationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/managementApplicationPages/EditApplicationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/CommonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/CommonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/managementAccountTests/AddAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/managementAccountTests/AddAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/managementAccountTests/DeleteAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/managementAccountTests/DeleteAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/managementAccountTests/UpdateAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/managementAccountTests/UpdateAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/managementApplicationTests/AddApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/managementApplicationTests/AddApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/managementApplicationTests/DeleteApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/managementApplicationTests/DeleteApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/managementApplicationTests/EditApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/managementApplicationTests/EditApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/CommonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/CommonPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/loginRegisterPages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/loginRegisterPages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/managementAccoumtPages/UpdateAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/managementAccoumtPages/UpdateAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/managementApplicationPages/AddApplicationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/managementApplicationPages/AddApplicationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/managementApplicationPages/EditApplicationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/managementApplicationPages/EditApplicationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/CommonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/CommonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/managementAccountTests/AddAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/managementAccountTests/AddAccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/managementAccountTests/DeleteAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/managementAccountTests/DeleteAccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/managementAccountTests/UpdateAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/managementAccountTests/UpdateAccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/managementApplicationTests/AddApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/managementApplicationTests/AddApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/managementApplicationTests/DeleteApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/managementApplicationTests/DeleteApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/managementApplicationTests/EditApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/managementApplicationTests/EditApplicationTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WPo0nQZWZ9O8Onlh3qboz1obll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="E:/Project/1/GitPractice/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="projectFinal" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/Project/1/GitPractice/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="754f5ecf-eeb6-41c9-a5a2-f98096ac8cf7" name="Default Changelist" comment="" />
+      <created>1579060369949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579060369949</updated>
+    </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1579060481753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579060481754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished">
+      <created>1579075302053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579075302053</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" key="#Inspections" timestamp="1579074606362">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1579074606362" />
+    <state x="392" y="89" key="#Project_Structure" timestamp="1579079638029">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1579079638029" />
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1579075298277">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579075298277" />
+    <state x="580" y="148" key="FileChooserDialogImpl" timestamp="1579083539870">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="148" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579083539870" />
+    <state width="1557" height="148" key="GridCell.Tab.0.bottom" timestamp="1579085026843">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="148" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579085026843" />
+    <state width="1557" height="148" key="GridCell.Tab.0.center" timestamp="1579085026842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="148" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579085026842" />
+    <state width="1557" height="148" key="GridCell.Tab.0.left" timestamp="1579085026842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="148" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579085026842" />
+    <state width="1557" height="148" key="GridCell.Tab.0.right" timestamp="1579085026842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="148" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579085026842" />
+    <state x="465" y="130" key="NewModule_or_Project.wizard" timestamp="1579083541168">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="130" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1579083541168" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579086157897">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579086157897" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1579072612068">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1579072612068" />
+    <state x="496" y="162" width="607" height="536" key="find.popup" timestamp="1579074910306">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="162" width="607" height="536" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1579074910306" />
+  </component>
+</project>
