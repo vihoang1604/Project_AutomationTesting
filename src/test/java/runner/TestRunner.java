@@ -15,7 +15,7 @@ import cucumber.api.testng.CucumberFeatureWrapper;
 import cucumber.api.testng.TestNGCucumberRunner;
 
 @CucumberOptions(
-        features = "src/test/java/features/",
+        features = "src/test/java/features/managementAccounts",
         glue = {"tests"},
         tags = {"~@Ignore"},
         format = {
